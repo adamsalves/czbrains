@@ -1,0 +1,9 @@
+marca,descricao,preco,avaliacao,tela,conversor,tamanho
+LG,"TV LCD 21"" 1 USB, Media Player, My Home Screen",R$1000.00,2,LCD,SIM,21”
+Sony,"TV LED 30"" 1 USB, Media Player",R$1100.00,3,LED,NÃO,30”
+Multilaser,"TV LCD 30"" 2 USB, 1 HDMI",R$1300.00,4,LCD,SIM,30”
+Samsung,"TV LED 40"" 3 USB, 3 HDMI, Media Player",R$1150.00,3,LED,SIM,40”
+Acer,"TV LCD 50"" 4 USB, 4 HDMI, Media Player, My Home Screen",R$1500.00,5,LCD,SIM,50”
+Benq,"TV LED 21""",R$1100.00,1,LED,NÃO,21”
+HP,"TV LCD 30"" 2 USB, 1 HDMI, My Home Screen",R$1250.00,4,LCD,SIM,30”
+Lenoxx,"TV LCD 40"" 1 USB, 1 HDMI, Media Player",R$1350.00,5,LCD,SIM,40”

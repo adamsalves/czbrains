@@ -1,0 +1,74 @@
+[
+    {
+        "marca": "LG",
+        "descricao": "TV LCD 21\" 1 USB, Media Player, My Home Screen",
+        "preco": "R$1000.00",
+        "avaliacao": "2",
+        "tela": "LCD",
+        "conversor": "SIM",
+        "tamanho": "21\u201d"
+    },
+    {
+        "marca": "Sony",
+        "descricao": "TV LED 30\" 1 USB, Media Player",
+        "preco": "R$1100.00",
+        "avaliacao": "3",
+        "tela": "LED",
+        "conversor": "N\u00c3O",
+        "tamanho": "30\u201d"
+    },
+    {
+        "marca": "Multilaser",
+        "descricao": "TV LCD 30\" 2 USB, 1 HDMI",
+        "preco": "R$1300.00",
+        "avaliacao": "4",
+        "tela": "LCD",
+        "conversor": "SIM",
+        "tamanho": "30\u201d"
+    },
+    {
+        "marca": "Samsung",
+        "descricao": "TV LED 40\" 3 USB, 3 HDMI, Media Player",
+        "preco": "R$1150.00",
+        "avaliacao": "3",
+        "tela": "LED",
+        "conversor": "SIM",
+        "tamanho": "40\u201d"
+    },
+    {
+        "marca": "Acer",
+        "descricao": "TV LCD 50\" 4 USB, 4 HDMI, Media Player, My Home Screen",
+        "preco": "R$1500.00",
+        "avaliacao": "5",
+        "tela": "LCD",
+        "conversor": "SIM",
+        "tamanho": "50\u201d"
+    },
+    {
+        "marca": "Benq",
+        "descricao": "TV LED 21\"",
+        "preco": "R$1100.00",
+        "avaliacao": "1",
+        "tela": "LED",
+        "conversor": "N\u00c3O",
+        "tamanho": "21\u201d"
+    },
+    {
+        "marca": "HP",
+        "descricao": "TV LCD 30\" 2 USB, 1 HDMI, My Home Screen",
+        "preco": "R$1250.00",
+        "avaliacao": "4",
+        "tela": "LCD",
+        "conversor": "SIM",
+        "tamanho": "30\u201d"
+    },
+    {
+        "marca": "Lenoxx",
+        "descricao": "TV LCD 40\" 1 USB, 1 HDMI, Media Player",
+        "preco": "R$1350.00",
+        "avaliacao": "5",
+        "tela": "LCD",
+        "conversor": "SIM",
+        "tamanho": "40\u201d"
+    }
+]
